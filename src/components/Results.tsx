@@ -23,15 +23,25 @@ const Results = () => {
           </div>
 
           <div className="bg-primary-foreground text-primary p-8 rounded-2xl shadow-xl animate-fade-in">
+            <h3 className="text-2xl md:text-3xl font-bold mb-6 text-center">
+              O MÉTODO VALIDADO QUE ELIMINA ATÉ <span className="text-gold">-45CM EM 1 ÚNICA SESSÃO</span> – SIGA O PASSO A PASSO SIMPLES E LEVE ESSA TRANSFORMAÇÃO PARA SUAS CLIENTES!
+            </h3>
+            
             <p className="text-lg leading-relaxed mb-6">
-              Pensando em maximizar os resultados de esteticistas e massoterapeutas que querem 
-              entregar algo novo e comum, criamos o <span className="font-bold text-gold">Efeito Lipo HD MANUAL</span>: 
-              um protocolo onde você terá resultados desde a primeira sessão.
+              O método <span className="font-bold text-gold">LIPO MANUAL – HABILITANDO PROFISSIONAIS</span> não é apenas mais um protocolo. 
+              Ele foi criado para que você domine um passo a passo validado, com aulas práticas onde ensinamos a aplicação em modelo, 
+              e possa replicar em suas clientes — entregando resultados de <span className="font-bold text-gold">–30 cm a –45 cm já na primeira sessão</span>.
             </p>
+            
+            <p className="text-lg leading-relaxed mb-6">
+              Validado por mais de <span className="font-bold text-gold">4.739 mulheres</span> e inspirado em técnicas renomadas como 
+              as de <span className="font-bold">R. França</span>, a Lipo Manual foi estruturada em curso online, com videoaulas claras, 
+              objetivas e altamente eficazes.
+            </p>
+            
             <p className="text-lg leading-relaxed mb-8">
-              Com o nosso passo a passo em vídeo, você vai aprender de forma prática nosso protocolo 
-              secreto e replicar imediatamente, gerando <span className="font-bold text-gold">resultados imediatos e diferenciais</span> que as 
-              suas clientes esperam!
+              Com <span className="font-bold text-gold">1 ano de acesso + suporte</span>, você terá em mãos um protocolo IMEDIATO e de 
+              EFEITO LIPO, capaz de elevar seus resultados e <span className="font-bold text-gold">duplicar o faturamento da sua clínica</span>.
             </p>
 
             <div className="text-center">
